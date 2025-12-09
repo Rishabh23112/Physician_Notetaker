@@ -12,10 +12,10 @@ An AI-powered application for **medical transcription summarization, SOAP note g
 - **Frontend**: Streamlit
 - **AI Model**: Google Gemini 2.5 Flash (via `google-generativeai`)
 
-## <img width="51" height="51" alt="image" src="https://github.com/user-attachments/assets/91b31014-9e0f-42ab-850c-39f95e32d581" /> Images
-<img width="1079" height="684" alt="phy3" src="https://github.com/user-attachments/assets/8c4bc313-1e52-422f-853e-776913d4d8db" />
-<img width="1079" height="685" alt="phy2" src="https://github.com/user-attachments/assets/b48c8584-7140-4d29-a693-0bbec113ec50" />
-<img width="1079" height="684" alt="Phy1" src="https://github.com/user-attachments/assets/32e3f00c-bc95-474b-a0d4-8354a7af9e2b" />
+## <img width="35" height="35" alt="image" src="https://github.com/user-attachments/assets/91b31014-9e0f-42ab-850c-39f95e32d581" /> Images
+<img width="600" height="384" alt="phy3" src="https://github.com/user-attachments/assets/8c4bc313-1e52-422f-853e-776913d4d8db" />
+<img width="600" height="384" alt="phy2" src="https://github.com/user-attachments/assets/b48c8584-7140-4d29-a693-0bbec113ec50" />
+<img width="600" height="384" alt="Phy1" src="https://github.com/user-attachments/assets/32e3f00c-bc95-474b-a0d4-8354a7af9e2b" />
 
 
 
