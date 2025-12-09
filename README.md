@@ -18,8 +18,8 @@ An AI-powered application for **medical transcription summarization, SOAP note g
 
 1.  **Clone the repository**:
     ```bash
-    git clone <repo-url>
-    cd Physician_Notetaker-main
+    git clone https://github.com/Rishabh23112/Physician_Notetaker.git
+    cd Physician_Notetaker
     ```
 
 2.  **Install Dependencies**:
